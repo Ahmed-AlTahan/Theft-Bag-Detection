@@ -22,7 +22,7 @@
 - Real-time theft detection alerts
 
 
-https://github.com/user-attachments/assets/b2553918-594d-4f17-9815-a46d4740ba5d
+https://github.com/user-attachments/assets/0d472fb0-7f4f-4ad6-80d3-f7ddb1f6a6dd
 
 
 ---
