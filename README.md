@@ -1,6 +1,6 @@
-# 🎒 Theft Bag Detection
+# Theft Bag Detection
 
-> AI-powered theft detection system using YOLO object detection to link bags to owners and send instant alerts
+> **AI-powered theft detection system using YOLO object detection to link bags to owners and send instant alerts**
 
 ## 🚀 Features
 
